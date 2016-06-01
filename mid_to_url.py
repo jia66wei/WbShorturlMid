@@ -4,6 +4,7 @@
 @use:WB mid与短链互转
 @date:2016-05-26
 参考网址:http://saebbs.com/forum.php?mod=viewthread&tid=23801
+		 http://169it.com/tech-python/article-3570305573.html
 '''
 import sys
 
